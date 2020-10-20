@@ -11,7 +11,7 @@ const Header = () => {
     <header className="page-header">
       <nav>
         <Link to="/">
-          <img src={ logo } alt={`${companyName} Logo`} />
+          <Text>VELEX</Text>/>
         </Link>
       </nav>
     </header>

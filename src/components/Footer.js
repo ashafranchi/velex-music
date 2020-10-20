@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <footer className="page-footer">
       <Container>
-        <small>&copy; {new Date().getFullYear()} <a href={authorUrl} rel="nofollow">{ authorName }</a></small>
+        <small>&copy; {new Date().getFullYear()} <a href={authorUrl} rel="nofollow">VELEX</a></small>
       </Container>
     </footer>
   );
