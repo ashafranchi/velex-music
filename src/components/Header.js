@@ -11,7 +11,6 @@ const Header = () => {
     <header className="page-header">
       <nav>
         <Link to="/">
-          <Text>VELEX</Text>/>
         </Link>
       </nav>
     </header>
